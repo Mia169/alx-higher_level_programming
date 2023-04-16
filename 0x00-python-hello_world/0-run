@@ -1,1 +1,2 @@
-VimCrypt~03!oÐÃâj¤‹Yä¶þ¦x†ÌÉ¨écÇÒ5°"Ñm„/ã=ÇÀ(1zÝ=w
+#!/bin/bash
+python3 $PYFILE
